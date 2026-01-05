@@ -23,3 +23,4 @@ This project automates multi-step workflows combining APIs and AI models. Inspir
 - `docs/` → Architecture diagrams and documentation
 
 
+<img width="676" height="568" alt="image" src="https://github.com/user-attachments/assets/71aefbe4-92cd-4edb-adf2-286a2609736c" />
