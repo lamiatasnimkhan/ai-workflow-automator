@@ -1,4 +1,4 @@
-AI Workflow Automator 🚀
+AI Workflow Automator 
 
 Automate text workflows with AI! This project uses Google Gemini (GenAI API) for text summarization, FastAPI for the backend API, and a React frontend for easy interaction.
 
